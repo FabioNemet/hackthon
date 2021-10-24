@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/10/22 12:48:49.000.915,=C:\Users\miraf\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/10/22 12:49:15.000.615,C:\Users\miraf\Desktop\hackthon\fonte\UnitLogin.pas=C:\Users\miraf\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/10/22 12:49:15.000.615,C:\Users\miraf\Desktop\hackthon\fonte\UnitLogin.fmx=C:\Users\miraf\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2021/10/22 12:49:26.000.285,C:\Users\miraf\Desktop\hackthon\fonte\Psiu.dproj=C:\Users\miraf\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/10/22 12:52:39.000.646,=C:\Users\miraf\Desktop\hackthon\units\uFancyDialog.pas</Transaction>
+    <Transaction>2021/10/22 12:52:59.000.875,=C:\Users\miraf\Desktop\hackthon\fonte\Unit1.pas</Transaction>
+    <Transaction>2021/10/22 12:53:24.000.074,C:\Users\miraf\Desktop\hackthon\fonte\UnitPrincipal.fmx=C:\Users\miraf\Desktop\hackthon\fonte\Unit1.fmx</Transaction>
+    <Transaction>2021/10/22 12:53:24.000.074,C:\Users\miraf\Desktop\hackthon\fonte\UnitPrincipal.pas=C:\Users\miraf\Desktop\hackthon\fonte\Unit1.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="6f6daf6f" Android64="6f6daf6f"/>
+	</ActiveMobileDevice>
+</BorlandProject>
